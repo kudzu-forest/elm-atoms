@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "kudzu-forest/elm-atom",
+    "name": "kudzu-forest/elm-atoms",
     "summary": "types for handling periodic tables.",
     "license": "MIT",
     "version": "1.0.0",
