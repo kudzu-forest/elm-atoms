@@ -429,10 +429,10 @@ get a o =
             o.ruthenium
 
         Rh ->
-            o.palladium
+            o.rhodium
 
         Pd ->
-            o.rhodium
+            o.palladium
 
         Ag ->
             o.silver
@@ -866,8 +866,8 @@ create map =
     , molybdenum = map Mo
     , technetium = map Tc
     , ruthenium = map Ru
-    , rhodium = map Pd
-    , palladium = map Rh
+    , rhodium = map Rh
+    , palladium = map Pd
     , silver = map Ag
     , cadmium = map Cd
     , indium = map In
